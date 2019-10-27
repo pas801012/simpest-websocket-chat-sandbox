@@ -5,7 +5,7 @@ if (!window.WebSocket) {
 // создать подключение
 // var socket = new WebSocket("ws://localhost:8081");
 // FOR CODESANDBOX WSS PORT LINK:
-var wsUrl = "s98sv-8081.sse.codesandbox.io";
+var wsUrl = "y4hnl-8081.sse.codesandbox.io";
 // for normal usage (for localhost or production)
 // var wsUrl = window.location.hostname + ":8081";
 

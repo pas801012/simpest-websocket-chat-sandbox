@@ -12,6 +12,14 @@
             "url": "https://s98sv-8081.sse.codesandbox.io"
           },
           "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 8081,
+            "url": "https://y4hnl-8081.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },
